@@ -1,0 +1,5 @@
+1001 cai 3
+1056 joseph 1
+1005 lili 2
+1021 kaikai 1
+1008 jotaro 2
